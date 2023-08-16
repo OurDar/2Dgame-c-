@@ -1,0 +1,10 @@
+^C:\USERS\SMERTOX.LAPTOP-HI4R440O\DESKTOP\GIT\2DGAME-C-\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/SmertoX.LAPTOP-HI4R440O/Desktop/Git/2Dgame-c- -BC:/Users/SmertoX.LAPTOP-HI4R440O/Desktop/Git/2Dgame-c-/build --check-stamp-file C:/Users/SmertoX.LAPTOP-HI4R440O/Desktop/Git/2Dgame-c-/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

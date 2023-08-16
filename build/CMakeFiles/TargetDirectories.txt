@@ -1,0 +1,3 @@
+C:/Users/SmertoX.LAPTOP-HI4R440O/Desktop/Git/2Dgame-c-/build/CMakeFiles/2Dgame-c++.dir
+C:/Users/SmertoX.LAPTOP-HI4R440O/Desktop/Git/2Dgame-c-/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SmertoX.LAPTOP-HI4R440O/Desktop/Git/2Dgame-c-/build/CMakeFiles/ZERO_CHECK.dir
